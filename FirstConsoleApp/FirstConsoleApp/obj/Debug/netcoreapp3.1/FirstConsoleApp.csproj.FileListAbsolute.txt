@@ -1,0 +1,13 @@
+F:\PROJECTS\LearnCSharp\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.exe
+F:\PROJECTS\LearnCSharp\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.deps.json
+F:\PROJECTS\LearnCSharp\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.runtimeconfig.json
+F:\PROJECTS\LearnCSharp\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.runtimeconfig.dev.json
+F:\PROJECTS\LearnCSharp\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.dll
+F:\PROJECTS\LearnCSharp\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.pdb
+F:\PROJECTS\LearnCSharp\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.csprojAssemblyReference.cache
+F:\PROJECTS\LearnCSharp\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.csproj.CoreCompileInputs.cache
+F:\PROJECTS\LearnCSharp\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.AssemblyInfoInputs.cache
+F:\PROJECTS\LearnCSharp\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.AssemblyInfo.cs
+F:\PROJECTS\LearnCSharp\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.dll
+F:\PROJECTS\LearnCSharp\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.pdb
+F:\PROJECTS\LearnCSharp\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.genruntimeconfig.cache
