@@ -1,0 +1,13 @@
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolFormsApp\bin\Debug\SchoolFormsApp.exe.config
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolFormsApp\bin\Debug\SchoolFormsApp.exe
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolFormsApp\bin\Debug\SchoolFormsApp.pdb
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolFormsApp\bin\Debug\SchoolLibrary.dll
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolFormsApp\bin\Debug\SchoolLibrary.pdb
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolFormsApp\obj\Debug\SchoolFormsApp.csprojAssemblyReference.cache
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolFormsApp\obj\Debug\SchoolFormsApp.Form1.resources
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolFormsApp\obj\Debug\SchoolFormsApp.Properties.Resources.resources
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.GenerateResource.cache
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.CoreCompileInputs.cache
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.CopyComplete
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolFormsApp\obj\Debug\SchoolFormsApp.exe
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolFormsApp\obj\Debug\SchoolFormsApp.pdb

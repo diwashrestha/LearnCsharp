@@ -1,0 +1,9 @@
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolLibrary\bin\Debug\netstandard2.0\SchoolLibrary.deps.json
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolLibrary\bin\Debug\netstandard2.0\SchoolLibrary.dll
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolLibrary\bin\Debug\netstandard2.0\SchoolLibrary.pdb
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.csprojAssemblyReference.cache
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.csproj.CoreCompileInputs.cache
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.AssemblyInfoInputs.cache
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.AssemblyInfo.cs
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.dll
+F:\PROJECTS\LearnCSharp\SchoolLibrary\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.pdb

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SchoolLibrary
 {
-    class School
+    public class School
     {
         public string Name { get; set; }
         public string Address { get; set; }
@@ -14,7 +14,7 @@ namespace SchoolLibrary
         public string Phone { get; set; }
 
         private string _twitterAddress;
-        public string twitterAddress
+        public string TwitterAddress
         {
             // make sure the twitter address starts with @
             get { return _twitterAddress; }
